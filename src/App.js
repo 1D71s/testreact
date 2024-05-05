@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src='http://45.94.156.241:8081/api/public/dl/vG-KQERX/Fusion_3FA6P0RU7KR273361/1-10859_ford-png-image-ford-fusion-16-white-transparent-removebg-preview.png' className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
